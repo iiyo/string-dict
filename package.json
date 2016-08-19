@@ -1,0 +1,26 @@
+{
+  "name": "string-dict",
+  "version": "1.0.0",
+  "description": "Dictionary prototype for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiyo/string-dict.git"
+  },
+  "keywords": [
+    "dictionary",
+    "data",
+    "structure",
+    "container",
+    "map"
+  ],
+  "author": "J. Steinbeck",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/iiyo/string-dict/issues"
+  },
+  "homepage": "https://github.com/iiyo/string-dict#readme"
+}
